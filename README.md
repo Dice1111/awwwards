@@ -28,8 +28,9 @@ All design credits go to **[Zentry](https://zentry.com/)**. This project is crea
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
 - GSAP
-- React.js
+- Next.js
 - Tailwind CSS
+- TypeScript
 
 ## <a name="features">🔋 Features</a>
 
