@@ -6,7 +6,6 @@ import { TiLocationArrow } from "react-icons/ti";
 import { useGSAP } from "@gsap/react";
 import gsap from "gsap";
 import { ScrollTrigger } from "gsap/all";
-import { time } from "console";
 
 const Hero = () => {
   gsap.registerPlugin(ScrollTrigger);
