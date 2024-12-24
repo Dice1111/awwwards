@@ -80,25 +80,6 @@ npm run dev
 
 Open [http://localhost:3000](http://localhost:3000) in your browser to view the project.
 
-## <a name="snippets">🕸️ Snippets</a>
-
-<details>
-<summary><code>index.css</code></summary>
-
-```css
-
-```
-
-</details>
-
-<details>
-  <summary><code>components/RoundedCorners.jsx</code></summary>
-
-```js
-
-```
-
-</details>
 
 
 
